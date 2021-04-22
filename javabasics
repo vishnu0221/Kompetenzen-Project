@@ -1,0 +1,4 @@
+class Basics
+{
+System.out.println("hello");
+}
